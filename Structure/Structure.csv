@@ -1,0 +1,26 @@
+Building_ID,Building_Type,No_of_Storeys,Grid_Length_m,Grid_Width_m,Column_Size_mm,Beam_Size_mm,Concrete_Grade,Steel_Grade,Seismic_Zone,Structural_System,Base_Shear_kN,Max_Displacement_mm,Time_Period_sec,Total_Steel_Tonnes,Total_Concrete_Cum
+B001,Mixed-use,6,21.0,24.6,300x300,450x300,M40,Fe415,Zone V,Moment-resisting Frame,544.7,17.03,1.51,12.39,398.8
+B002,Mixed-use,20,36.8,30.7,400x300,230x600,M35,Fe500,Zone IV,Shear Wall System,823.0,46.99,0.7,44.19,559.0
+B003,Commercial,11,52.3,40.5,500x300,300x300,M40,Fe500,Zone IV,Shear Wall System,1556.9,7.52,0.96,36.04,279.8
+B004,Residential,6,35.2,30.9,400x300,300x400,M25,Fe550,Zone IV,Moment-resisting Frame,1413.7,14.41,1.96,24.71,579.5
+B005,Mixed-use,20,28.8,26.3,300x300,230x400,M35,Fe500,Zone II,Shear Wall System,1869.7,36.19,1.94,29.14,699.2
+B006,Mixed-use,17,25.7,19.9,500x500,450x400,M40,Fe500,Zone V,Braced Frame,829.0,59.86,1.52,18.18,247.1
+B007,Residential,7,45.1,42.7,400x500,230x400,M35,Fe550,Zone V,Braced Frame,1956.6,52.34,0.52,74.86,881.7
+B008,Mixed-use,11,50.7,26.9,400x400,230x400,M20,Fe550,Zone IV,Shear Wall System,1261.5,10.85,1.75,85.75,707.7
+B009,Residential,7,35.0,20.7,500x300,450x400,M35,Fe415,Zone II,Braced Frame,1818.1,50.74,1.12,15.21,1078.0
+B010,Residential,5,49.3,43.6,500x300,230x600,M35,Fe550,Zone III,Braced Frame,1291.5,38.36,2.43,93.6,955.3
+B011,Mixed-use,9,48.5,29.0,500x500,300x400,M40,Fe500,Zone II,Shear Wall System,837.0,23.59,1.68,30.71,420.2
+B012,Residential,4,29.2,46.7,400x300,450x300,M30,Fe550,Zone V,Shear Wall System,1308.9,44.78,2.26,61.86,443.0
+B013,Commercial,16,27.6,18.4,400x400,300x400,M35,Fe550,Zone II,Moment-resisting Frame,590.9,45.05,2.1,19.83,391.6
+B014,Mixed-use,17,25.6,21.4,400x300,230x400,M40,Fe415,Zone II,Moment-resisting Frame,1953.5,55.95,2.2,24.97,685.6
+B015,Residential,15,56.1,20.8,300x400,300x400,M30,Fe500,Zone V,Shear Wall System,784.8,16.97,0.62,76.22,261.0
+B016,Commercial,4,22.0,31.7,500x300,230x600,M20,Fe415,Zone II,Moment-resisting Frame,1512.8,17.94,0.74,90.13,446.2
+B017,Mixed-use,4,44.8,29.7,500x500,450x400,M30,Fe415,Zone IV,Shear Wall System,898.4,12.2,1.79,51.15,1129.0
+B018,Residential,3,38.3,49.9,300x300,450x300,M40,Fe500,Zone III,Braced Frame,1821.3,53.36,1.24,24.2,1033.7
+B019,Mixed-use,12,44.5,49.6,500x500,230x600,M40,Fe500,Zone II,Shear Wall System,896.7,53.93,1.98,23.99,481.8
+B020,Residential,13,28.1,37.2,400x500,300x400,M20,Fe415,Zone V,Braced Frame,566.1,23.35,0.76,98.18,361.6
+B021,Commercial,20,48.2,34.6,300x300,450x300,M40,Fe415,Zone IV,Shear Wall System,1144.7,7.3,1.23,93.98,1172.2
+B022,Residential,14,28.4,23.7,300x400,450x400,M40,Fe550,Zone III,Shear Wall System,1796.9,58.69,2.12,89.33,224.8
+B023,Mixed-use,13,51.3,29.4,500x500,230x400,M25,Fe550,Zone II,Dual System,1808.3,52.22,0.94,83.49,660.3
+B024,Commercial,10,28.9,38.1,400x400,300x300,M30,Fe500,Zone V,Braced Frame,1908.9,11.34,2.44,26.07,1162.5
+B025,Commercial,4,24.3,30.2,500x400,300x600,M40,Fe415,Zone V,Shear Wall System,882.1,43.98,0.5,93.3,738.5
